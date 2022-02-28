@@ -1,11 +1,13 @@
 
 import React from 'react'
-import NavBAr from './components/NavBar'
+import NavBar from './components/NavBar'
+import SearchBar from './components/SearchBar'
 
 const App = () => {
   return (
     <>
-      <NavBAr />
+      <NavBar />
+      <SearchBar />
     </>
   )
 }

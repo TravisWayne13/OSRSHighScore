@@ -32,10 +32,10 @@ const NavBar = () => {
           <MenuIcon />
         </IconButton>
         <Typography variant="h6" className={classes.title}>
-          OSRS HighScores
+          OSRS HiScores
         </Typography>
         <Button color="inherit">Forums</Button>
-        <Button color="inherit">HighScores</Button>
+        <Button color="inherit">HiScores</Button>
       </Toolbar>
     </AppBar>
   </div>
